@@ -693,7 +693,8 @@ padding: 10px;
 
 @media (min-width: 1440px) {
   .sm_hero_left{
-      padding-top: 35%;
+      padding-top: 37%;
+      padding-left:0%;
   }
   .sm_hero_left h2 {
     margin: 0;
