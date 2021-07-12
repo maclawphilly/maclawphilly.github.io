@@ -625,7 +625,7 @@ padding: 10px;
   position: relative;
 }
 .sm_hero_left{
-    padding-top: 45%;
+    padding-top: 33%;
 }
 .sm_hero_left h2 {
   margin: 0;
@@ -664,6 +664,11 @@ padding: 10px;
     color: #fff;
     font-family: D-DIN-Condensed;
     margin-top: 33px;
+  }
+
+  .sm_hero_left{
+      padding-top: 45%;
+      padding-left:12%;
   }
   .sm_hero_left h3 {
     margin: 0;
